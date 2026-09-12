@@ -1,12 +1,42 @@
-# Extend Claude with skills
-https://code.claude.com/docs/en/skills
+# Building AI Agent Skills
 
-mkdir -p ~/.claude/skills/summarize-changes
+This is designed to extend AI coding assistants with custom automation capabilities. It provides the foundation for defining, testing, and deploying custom agent skills to automate developer tasks.
 
-# Resources
-skills.sh
+## Repository Context
 
+- **Parent Repository:** `AI-training-and-projects`
+- **Author/Maintainer:** IshmaelAsab
+- **Primary Goal:** Extend AI coding assistants with custom automation
 
-'/clear'
+## Project Structure
 
-https://github.com/github/awesome-copilot/blob/main/skills/commit-message-storyteller/SKILL.md
+```
+AI-training-and-projects/
+└── Building-AI-Agent-Skills/   # Core skill definitions and automation scripts
+```
+
+## Key Focus Areas
+
+- **AI Assistant Extension:** Build custom automation routines for AI-driven development.
+- **Skill Definitions:** Create modular capabilities for AI coding workflows.
+- **Automation Integration:** Streamline repetitive coding tasks and developer workflows.
+
+## Getting Started
+
+### Prerequisites
+
+- Git
+- Supported AI coding environment (e.g., GitHub Copilot or equivalent agentic tools)
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/IshmaelAsab/AI-training-and-projects.git
+
+# Navigate to the sub-project directory
+cd AI-training-and-projects/Building-AI-Agent-Skills
+```
+
+---
+
